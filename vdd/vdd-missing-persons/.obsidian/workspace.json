@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Corpus.md",
+                "file": "Vision Driven Missing Persons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Corpus"
+              "title": "Backlinks for Vision Driven Missing Persons"
             }
           },
           {
@@ -144,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Corpus.md",
+                "file": "Vision Driven Missing Persons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Corpus"
+              "title": "Outgoing links from Vision Driven Missing Persons"
             }
           },
           {
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Corpus.md",
+                "file": "Vision Driven Missing Persons.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Corpus"
+              "title": "Outline of Vision Driven Missing Persons"
             }
           }
         ]
@@ -214,9 +214,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "2457c4b3c9939a6c",
+  "active": "d8a8caab8da4e363",
   "lastOpenFiles": [
-    "Vision Driven Missing Persons.md",
-    "Corpus.md"
+    "Corpus.md",
+    "Vision Driven Missing Persons.md"
   ]
 }
